@@ -1,6 +1,6 @@
 # Explicación
 
-# 1.Quitar los tornillos : 
+## 1.Quitar los tornillos : 
 
 Quitamos los tornillos mediante un tornabis y extraemos la tapa deslizando hacia un  lado.
 
